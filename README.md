@@ -1,7 +1,7 @@
 BlobLife
 ========
 
-->![alt tag](https://raw.githubusercontent.com/williamahartman/BlobLife/master/bloblife.gif)<-
+![alt tag](https://raw.githubusercontent.com/williamahartman/BlobLife/master/bloblife.gif)
 
 BlobLife is an experiment with Processing. It's like Conway's Game of Life, but more organic looking. All the cells can be placed anywhere in the window. It doesn't use a grid at all.
 
