@@ -224,7 +224,7 @@ public class ResetSlidersButton
     {
        blurPassesSlider.setValue(0.8);
        sizeSlider.setValue(0.3);
-       hueSlider.setValues(0.15, 0.85);
+       hueSlider.setValues(0.15, 0.95);
        saturationSlider.setValues(0.3, 0.9);
     }
 
